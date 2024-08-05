@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "gltfjsx": "^6.5.0",
+    "jsdom-global": "^3.0.2",
+    "leva": "^0.9.35"
+  }
+}
